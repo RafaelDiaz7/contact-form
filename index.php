@@ -59,7 +59,7 @@
 	<head>
 		<meta charset="utf-8">
 		<title>Contact US</title>
-		<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+		<link rel="stylesheet" type="text/css" href="bootstrap.css">
 	</head>
 	<body>
 		<header>
